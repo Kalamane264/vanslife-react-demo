@@ -32,7 +32,7 @@ export default function Header() {
                     to="vans"
                     style={({isActive}) => isActive ? activeStyles : null}
                 >
-                    Vans
+                    Vanss
                 </NavLink>
                 <Link to="login" className="login-link">
                     <img 
