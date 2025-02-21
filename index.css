@@ -7,6 +7,7 @@ html, body {
     padding: 0;
     background-color: #FFF7ED;
     font-family: "Inter", sans-serif;
+    overflow: scroll;
 }
 
 a {
@@ -170,6 +171,10 @@ footer {
     padding-inline: 23px;
     color: #161616;
     margin-bottom: 55px;
+}
+
+.about-page-content img {
+    width: 100%;
 }
 
 .about-page-content h1 {
